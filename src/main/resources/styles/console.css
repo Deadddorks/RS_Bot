@@ -1,0 +1,8 @@
+
+.label
+{
+    -fx-font-family: monospace;
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+    -fx-text-fill: slateGray;
+}

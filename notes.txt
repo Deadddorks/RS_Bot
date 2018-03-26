@@ -1,0 +1,4 @@
+> Create a Command library -> Map<String, Script>
+    > Add Settings
+    > Add Scan (inventory locs, ...)
+> Command help & helps
